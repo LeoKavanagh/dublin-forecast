@@ -2,7 +2,7 @@
 
 Is this a microservice?
 
-![Is this a microservice?][static/microservice.jpg]
+![Is this a microservice?](static/microservice.jpg)
 
 
 Scrape tomorrow's weather forecast for the Dublin area from Met Éireann's website.
