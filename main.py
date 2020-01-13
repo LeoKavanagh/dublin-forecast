@@ -10,7 +10,7 @@ def get_dublin_forecast():
 
     dublin = tree \
         .xpath('/html/body/div/div[1]/section'
-               '/div/div[1]/div[1]/p[2]/text()')[0] \
+               '/div/div[1]/div[1]/p[4]/text()')[0] \
         .replace('\n', ' ')
 
     return dublin
