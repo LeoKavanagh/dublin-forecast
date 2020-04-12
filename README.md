@@ -2,6 +2,8 @@
 
 Is this a microservice?
 
+(I am aware that this is not a microservice.)
+
 ![Is this a microservice?](static/microservice.jpg)
 
 
